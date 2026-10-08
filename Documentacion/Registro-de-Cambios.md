@@ -8,7 +8,7 @@ Este documento presenta cinco avances realizados durante el desarrollo académic
 
 | N.º | Avance realizado | Descripción |
 |---|---|---|
-| 1 | Definición de requisitos | Se documentaron cinco requisitos funcionales y cinco no funcionales, estableciendo las necesidades y características del sistema. |
+| 1 | Definición de requisitos | Se documentaron seis requisitos funcionales y cinco no funcionales, estableciendo las necesidades y características del sistema. |
 | 2 | Elaboración de diagramas UML | Se desarrollaron y organizaron los diagramas de casos de uso, clases, secuencia y actividades para representar la estructura y el comportamiento del sistema. |
 | 3 | Definición de arquitectura | Se documentó una arquitectura de tres capas, separando la presentación, la lógica de negocio y el acceso a datos. |
 | 4 | Organización del repositorio | Se actualizaron los archivos README.md y se crearon carpetas para clasificar requisitos, diagramas UML y arquitectura. |

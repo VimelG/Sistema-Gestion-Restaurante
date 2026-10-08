@@ -21,6 +21,7 @@ Los requisitos funcionales describen las operaciones que deberá permitir el sis
 | RF-03 | Generación de facturas | Generar facturas a partir de los pedidos, mostrando productos, cantidades y total correspondiente. |
 | RF-04 | Reporte de ventas | Permitir al administrador consultar un reporte de las ventas realizadas durante el día. |
 | RF-05 | Gestión de mesas | Permitir registrar y actualizar el estado de las mesas del restaurante. |
+| RF-06 | Gestión de usuarios y roles | Permitir al administrador registrar, consultar y modificar usuarios, asignarles roles y controlar sus permisos de acceso al sistema. |
 
 ## 4. Requisitos no funcionales
 
